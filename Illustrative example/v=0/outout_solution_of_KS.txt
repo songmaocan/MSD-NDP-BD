@@ -1,0 +1,3 @@
+iteration,solution
+1,[]
+2,[(2, 3)]
